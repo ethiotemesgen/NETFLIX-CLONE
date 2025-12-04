@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/static/css/main.99bb616c.css",
+    "main.js": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/static/js/main.a5016456.js",
+    "static/media/BrandAssets_Logos_01-Wordmark.jpg": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/static/media/BrandAssets_Logos_01-Wordmark.6c43f4f2140127a11e81.jpg",
+    "index.html": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/index.html",
+    "main.99bb616c.css.map": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/static/css/main.99bb616c.css.map",
+    "main.a5016456.js.map": "//github.com/ethiotemesgen.github.io/NETFLIX-CLONE/static/js/main.a5016456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99bb616c.css",
+    "static/js/main.a5016456.js"
+  ]
+}
