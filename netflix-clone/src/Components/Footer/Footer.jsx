@@ -50,7 +50,7 @@ const Footer = () => {
       </div>
 
       <p className="footer-country">
-        © {new Date().getFullYear()} Netflix Ethiopia. All rights reserved.
+        © {new Date().getFullYear()} Netflix. All rights reserved.
       </p>
     </div>
   );
